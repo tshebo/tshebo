@@ -5,7 +5,20 @@
 
 - 🌱 I’m currently learning **NextJs and Bun**
 
-- 📫 How to reach me **tshebosereetsi@gmail.com**
+- 📫 To reach me **tshebosereetsi@gmail.com**
+- ---
+**Interests:**
+- Programming & Tech Trends
+- Self Improvement
+- Sports
+- Music
+- Conspiracy Theories
+
+**Goals:**
+- Travel
+- Create amazing projects
+- Build a supportive community
+- ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
