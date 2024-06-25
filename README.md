@@ -13,9 +13,10 @@
 - Sports
 - Music
 - Conspiracy Theories
+- New Experiences
 
 **Goals:**
-- Travel
+- Travelling
 - Create amazing projects
 - Build a supportive community
 - ---
